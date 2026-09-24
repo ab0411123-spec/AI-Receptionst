@@ -5,3 +5,4 @@ gTTS==2.5.4
 SpeechRecognition==3.16.1
 PyAudio==0.2.14
 google-genai==2.18.1
+scipy
